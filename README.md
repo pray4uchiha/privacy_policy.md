@@ -25,7 +25,7 @@
 - **Покинуть лавку**: Отозвать согласие в любой момент  
 
 ---  
-**Хранитель тайн**: [Написать Наоми](t.me/ваш_ник)  
+**Хранитель тайн**: [Написать Наоми](t.me/manager_naomi)  
 
 ––––––––––––––––––––––––––––––  
  
@@ -57,5 +57,5 @@
 - **Leave the vault**: Revoke consent anytime  
 
 ---  
-**Keeper of Secrets**: [Message Naomi](t.me/your_username)  
+**Keeper of Secrets**: [Message Naomi](t.me/manager_naomi)  
 **Full Scroll**: [GitHub](https://github.com/yourusername/naomi-privacy)  
